@@ -1,6 +1,5 @@
 # Description
-
-Useful sql scripts for siebel developer
+Useful sql scripts for Siebel developer
 
 # Todo
 Apply universal formatting
